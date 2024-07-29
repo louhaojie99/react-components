@@ -19,4 +19,4 @@ features:
     description: Put ! description here
 ---
 
-@hj/rc-components
+@louhaojie99/react-components

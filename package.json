@@ -1,7 +1,17 @@
 {
-  "name": "@hj/rc-components",
+  "name": "@louhaojie99/react-components",
   "version": "0.0.1",
   "description": "玩转 React component",
+  "keywords": [
+    "react",
+    "components",
+    "@louhaojie99/react-components"
+  ],
+  "homepage": "https://louhaojie99.github.io/react-components",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/louhaojie99/react-components"
+  },
   "license": "MIT",
   "module": "dist/index.js",
   "types": "dist/index.d.ts",

@@ -8,8 +8,8 @@
     "baseUrl": "./",
     "paths": {
       "@@/*": [".dumi/tmp/*"],
-      "@hj/rc-components": ["src"],
-      "@hj/rc-components/*": ["src/*", "*"]
+      "@louhaojie99/react-components": ["src"],
+      "@louhaojie99/react-components/*": ["src/*", "*"]
     }
   },
   "include": [".dumirc.ts", "src/**/*"]
