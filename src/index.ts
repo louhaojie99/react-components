@@ -6,3 +6,5 @@ export type { PortalProps } from './components/Portal';
 
 export { default as OverlaySpin } from './components/OverlaySpin';
 export type { OverlaySpinProps } from './components/OverlaySpin';
+
+export { DestroyableDrawer } from './hocs/DestroyableDrawer';
