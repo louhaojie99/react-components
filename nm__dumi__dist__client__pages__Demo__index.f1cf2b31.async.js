@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_louhaojie99_react_components=self.webpackChunk_louhaojie99_react_components||[]).push([[9],{65149:function(i,n,e){e.r(n),e.d(n,{default:function(){return u}});var o=e(12491),t=e(67294),r=function(){var m=(0,o.UO)(),s=m.id,c=(0,o.WF)(),d=c.demos,f=d[s]||{},a=f.component;return a&&(0,t.createElement)(a)},u=r}}]);
