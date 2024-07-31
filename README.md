@@ -3,14 +3,6 @@
 
 玩转 React component
 
-## Usage
-
-TODO
-
-## Options
-
-TODO
-
 ## Development
 
 ```bash
@@ -36,24 +28,22 @@ $ pnpm run docs:preview
 $ pnpm run doctor
 ```
 
-## 手动部署到 GitPages
+## Deploy to github pages
 
 ```bash
 
 $ npm run docs:build
 
-# 一键发布
 $ npm run deploy
 
 ```
 
-## npm 发包
+## npm publish package
 
 ```bash
 
 $ npm login
 
-# 一键发布
 $ npm publish
 ```
 
